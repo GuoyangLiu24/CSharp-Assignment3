@@ -1,0 +1,5 @@
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise2\bin\Debug\guoyang_liu_exercise2.exe.config
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise2\bin\Debug\guoyang_liu_exercise2.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise2\bin\Debug\guoyang_liu_exercise2.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise2\obj\Debug\guoyang_liu_exercise2.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise2\obj\Debug\guoyang_liu_exercise2.pdb

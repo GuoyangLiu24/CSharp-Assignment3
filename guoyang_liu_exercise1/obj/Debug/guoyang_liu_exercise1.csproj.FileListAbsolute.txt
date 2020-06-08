@@ -1,0 +1,14 @@
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\bin\Debug\guoyang_liu_exercise1.exe.config
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\bin\Debug\guoyang_liu_exercise1.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\bin\Debug\guoyang_liu_exercise1.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\MainWindow.g.cs
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\App.g.cs
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1_MarkupCompile.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1_MarkupCompile.lref
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\MainWindow.baml
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.g.resources
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.Properties.Resources.resources
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.csproj.GenerateResource.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab03\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.pdb
